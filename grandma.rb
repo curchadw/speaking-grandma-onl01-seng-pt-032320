@@ -20,5 +20,6 @@ def speak_to_grandma(string)
   elsif string == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   else
+    return nil
   end
 end
